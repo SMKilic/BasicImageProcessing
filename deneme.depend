@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1545867942 source:c:\users\salih mertcan kilic\desktop\deneme\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
